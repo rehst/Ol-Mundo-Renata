@@ -1,0 +1,26 @@
+
+
+body{
+    background-color: #305050;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+#nome-usuario{
+    font-weight: bold;
+}
+
+.italico{
+    font-style: italic;
+}
+.subititulo{
+    color: #FFA500;
+}
+
+.cabecalho{
+    border-bottom: 1px solid #818181;
+}
+
+.rodape{
+    border: 1px solid #818181;
+}
